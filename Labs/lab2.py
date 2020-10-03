@@ -18,6 +18,8 @@ class Types_and_Strings:
         #
 
         # print only first and last of the sentence:
+        print("First character:{0}, Last character:{1}".format(message[0],message[-1]))
+
 
 
         # use slice notation:
